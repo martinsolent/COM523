@@ -1,4 +1,5 @@
 # UI COM523
+![UI interface planning](repo_assets/pexels-bongkarn-thanyakij-3804147.jpg)
 
 ### Why is this unit important?
 User interface design plays an important role within the digital industries. Professional Interface designers work in multidisciplinary teams alongside user experience (UX) practitioners and web developers to create accessible user centred digital products and services for a wide range of applications. 
@@ -11,14 +12,14 @@ As user interface (UI) designers work alongside UX and web development practitio
 You will receive technical instruction on a range of current prototyping tools, platforms and processes 
 
 ### We will cover the following areas: 
-•	Principles and theory for interaction design
-•	Designing for multiple screen and device outputs
-•	Working within current design standards and guidelines
-•	Design patterns and systems
-•	Creating accessible interfaces and interactions
-•	Testing and evaluation
-•	Design problem case studies
-•	User interface (UI), Voice user interface (VUI), AR UI (Augmented Reality user interface)
+* Principles and theory for interaction design
+* Designing for multiple screen and device outputs
+* Working within current design standards and guidelines
+* Design patterns and systems
+* Creating accessible interfaces and interactions
+* Testing and evaluation
+* Design problem case studies
+* User interface (UI), Voice user interface (VUI), AR UI (Augmented Reality user interface)
 
 ### How you will learn
 Learning activities will be based on real-world scenarios, preparing you for employment or career progression. 
